@@ -6,4 +6,4 @@ c = a + b
 print(a)
 print(c)
 x = 0
-y = 100
+y = 10
