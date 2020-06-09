@@ -4,4 +4,5 @@ a = 1;
 b = 2;
 c = a + b
 print(a)
-x = 1
+print(c)
+x = 0
